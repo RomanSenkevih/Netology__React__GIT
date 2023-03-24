@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
-import ShopItemFunc from './components/ShopItemFunc';
 import './App.css';
+import ShopItemFunc from './components/ShopItemFunc';
+
 
 function App() {
 
